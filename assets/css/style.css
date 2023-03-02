@@ -18,7 +18,7 @@ html {
     color: #fff !important;
 }
 
-.btn { 
+.btn {
     color: #fff;
     background-color: #000;
     text-decoration: none;
@@ -106,7 +106,8 @@ html {
     display: inline-block;
 }
 
-#nav, .subnav {
+#nav,
+.subnav {
     list-style-type: none;
 }
 
@@ -118,11 +119,11 @@ html {
     position: relative;
 }
 
-#nav > li > a{
+#nav > li > a {
     color: #fff;
     text-transform: uppercase;
     font-size: 15px;
-} 
+}
 
 #nav li a {
     text-decoration: none;
@@ -168,7 +169,7 @@ html {
     background-color: #ccc;
 }
 
-#header .mobile-menu-btn:hover .menu-icon{
+#header .mobile-menu-btn:hover .menu-icon {
     color: #000;
 }
 
@@ -203,7 +204,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url(/assets/image/band.jpeg) top center / cover no-repeat;   
+    background: url(/assets/image/band.jpeg) top center / cover no-repeat;
 }
 
 #slider .text-content {
@@ -265,7 +266,6 @@ html {
 
 #content .members-list {
     margin-top: 32px;
-    
 }
 
 #content .member-name {
@@ -292,13 +292,13 @@ html {
     color: #757575;
     font-size: 15px;
     padding: 11px 16px;
-    border-bottom: 1px solid #ddd
+    border-bottom: 1px solid #ddd;
 }
 .tickets-list .sold-out {
     background-color: #f44336;
     color: #fff;
     padding: 3px 8px;
-    margin-left: 16px
+    margin-left: 16px;
 }
 
 .tickets-list .quantity {
@@ -310,7 +310,7 @@ html {
     border-radius: 50%;
     text-align: center;
     line-height: 24px;
-    margin-top: -3px
+    margin-top: -3px;
 }
 
 .places-list {
@@ -441,8 +441,8 @@ html {
 }
 
 .modal-footer a {
-    color: #2196F3;
-} 
+    color: #2196f3;
+}
 
 /* contact form */
 .contact-content {
@@ -454,7 +454,7 @@ html {
     line-height: 1.5;
 }
 
-.contact-info i[class*=fa-solid] {
+.contact-info i[class*="fa-solid"] {
     width: 30px;
     display: inline-block;
 }
